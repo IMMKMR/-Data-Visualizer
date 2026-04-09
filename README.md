@@ -1,4 +1,4 @@
-<img width="1916" height="906" alt="image" src="https://github.com/user-attachments/assets/29c1f861-37e5-4255-b366-ddda2210d6af" /># 📊 Data Visualizer: Professional User Manual
+# 📊 Data Visualizer: Professional User Manual
 ### *Mastering India's Premier Geo-Analytics & BI Platform*
 
 <img width="1915" height="911" alt="image" src="https://github.com/user-attachments/assets/0ecb6f0d-0b1a-405c-8c1c-f7f7a8b2419b" />
